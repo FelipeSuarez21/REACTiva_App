@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "998976113095",
+    "firebase_url": "https://reactv2-f8956-default-rtdb.firebaseio.com",
+    "project_id": "reactv2-f8956",
+    "storage_bucket": "reactv2-f8956.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998976113095:android:ed3050da6f4b9673ec71e2",
+        "android_client_info": {
+          "package_name": "com.example.reactv2_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyzmE1GsZBDAqBfR34wTz7vvYX_CqrZXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
